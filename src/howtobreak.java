@@ -13,9 +13,6 @@ public class howtobreak {
             else
                 break;
 
-            
-            
-
         }
         System.out.print(count);
     }
